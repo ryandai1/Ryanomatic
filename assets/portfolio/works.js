@@ -45,29 +45,29 @@ window.RYAN_PORTFOLIO=[
   },
   {
     "id": "work-05",
-    "title": "阿格里巴 (Agrippa — tentative identification)",
+    "title": "阿格里巴 (Agrippa)",
     "kicker": "Pencil · Plaster-cast study",
-    "caption": "Probably a planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light.",
-    "alt": "Pencil profile study of a faceted plaster head, probably Agrippa.",
+    "caption": "A planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light.",
+    "alt": "Pencil profile study of a faceted plaster head of Agrippa.",
     "width": 1279,
     "height": 1706,
     "src": "assets/portfolio/work-05.webp",
     "thumb": "assets/portfolio/work-05-thumb.webp",
-    "captionZh": "疑为阿格里巴切面石膏像。以侧面的轮廓与明暗转折，练习眉弓、颧骨和颈部的体块关系。阿格里巴是古罗马将领与政治家。",
-    "captionEn": "Probably a planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light."
+    "captionZh": "阿格里巴切面石膏像。以侧面的轮廓与明暗转折，练习眉弓、颧骨和颈部的体块关系。阿格里巴是古罗马将领与政治家。",
+    "captionEn": "A planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light."
   },
   {
     "id": "work-06",
-    "title": "维特里乌斯像 (The “Vitellius” Portrait — tentative identification)",
+    "title": "维特里乌斯像 (Vitellius)",
     "kicker": "Pencil · Plaster-cast study",
-    "caption": "Probably the studio cast traditionally called “Vitellius” or the “Roman Emperor.” This frontal study focuses on facial proportions and softly modeled volume. The traditional name does not establish the original sitter’s identity.",
-    "alt": "Frontal pencil study of a Roman plaster portrait, possibly the cast traditionally called Vitellius.",
+    "caption": "A plaster cast of Vitellius. This frontal study focuses on facial proportions and softly modeled volume.",
+    "alt": "Frontal pencil study of a plaster portrait of Vitellius.",
     "width": 1279,
     "height": 1706,
     "src": "assets/portfolio/work-06.webp",
     "thumb": "assets/portfolio/work-06-thumb.webp",
-    "captionZh": "疑为画室中常称“维特里乌斯”或“罗马皇帝”的石膏头像。正面的观察着重于五官比例与柔和的体积塑造。这一传统名称并不代表原作人物身份已获确认。",
-    "captionEn": "Probably the studio cast traditionally called “Vitellius” or the “Roman Emperor.” This frontal study focuses on facial proportions and softly modeled volume. The traditional name does not establish the original sitter’s identity."
+    "captionZh": "维特里乌斯石膏头像。正面的观察着重于五官比例与柔和的体积塑造。",
+    "captionEn": "A plaster cast of Vitellius. This frontal study focuses on facial proportions and softly modeled volume."
   },
   {
     "id": "work-07",
