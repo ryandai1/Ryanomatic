@@ -1,1 +1,142 @@
-window.RYAN_PORTFOLIO=[{"id": "work-01", "title": "Blossom & bamboo", "kicker": "Chinese painting", "caption": "", "alt": "Flowering branches, birds and bamboo above rocks.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-01.webp", "thumb": "assets/portfolio/work-01-thumb.webp"}, {"id": "work-02", "title": "花卉写生 (Lilies in a Vase)", "kicker": "Chinese painting", "caption": "", "alt": "Pink lilies arranged in a blue and white porcelain vase.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-02.webp", "thumb": "assets/portfolio/work-02-thumb.webp"}, {"id": "work-03", "title": "明月松间照清泉石上流 (Among pine-trees bright moonbeams peer; Over crystal stones flows water clear.)", "kicker": "Chinese painting", "caption": "From Wang Wei’s 《山居秋暝》 (Autumn Evening in the Mountains), translated by Xu Yuanchong.", "alt": "Mountains, trees and a bridge in a traditional Chinese landscape.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-03.webp", "thumb": "assets/portfolio/work-03-thumb.webp"}, {"id": "work-04", "title": "In Harmony of Song, In Kinship of Shore and Sea", "kicker": "Chinese painting", "caption": "A gift presented to Harvard Din&Tonics.", "alt": "A long golden landscape scroll with mountains, trees and water.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-04.webp", "thumb": "assets/portfolio/work-04-thumb.webp"}, {"id": "work-05", "title": "Profile study", "kicker": "Sketch", "caption": "", "alt": "Pencil study of a sculpted head in profile.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-05.webp", "thumb": "assets/portfolio/work-05-thumb.webp"}, {"id": "work-06", "title": "Head study", "kicker": "Sketch", "caption": "", "alt": "Pencil study of a sculpted head on a rectangular plinth.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-06.webp", "thumb": "assets/portfolio/work-06-thumb.webp"}, {"id": "work-07", "title": "Bearded figure", "kicker": "Sketch", "caption": "", "alt": "Pencil study of a bearded sculptural bust.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-07.webp", "thumb": "assets/portfolio/work-07-thumb.webp"}, {"id": "work-08", "title": "Portrait study", "kicker": "Sketch", "caption": "", "alt": "Pencil portrait study of a bearded sculptural head.", "width": 1279, "height": 1706, "src": "assets/portfolio/work-08.webp", "thumb": "assets/portfolio/work-08-thumb.webp"}];
+window.RYAN_PORTFOLIO=[
+  {
+    "id": "work-01",
+    "title": "Blossom & bamboo",
+    "kicker": "Chinese painting",
+    "caption": "",
+    "alt": "Flowering branches, birds and bamboo above rocks.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-01.webp",
+    "thumb": "assets/portfolio/work-01-thumb.webp"
+  },
+  {
+    "id": "work-02",
+    "title": "花卉写生 (Lilies in a Vase)",
+    "kicker": "Chinese painting",
+    "caption": "",
+    "alt": "Pink lilies arranged in a blue and white porcelain vase.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-02.webp",
+    "thumb": "assets/portfolio/work-02-thumb.webp"
+  },
+  {
+    "id": "work-03",
+    "title": "明月松间照清泉石上流 (Among pine-trees bright moonbeams peer; Over crystal stones flows water clear.)",
+    "kicker": "Chinese painting",
+    "caption": "From Wang Wei’s 《山居秋暝》 (Autumn Evening in the Mountains), translated by Xu Yuanchong.",
+    "alt": "Mountains, trees and a bridge in a traditional Chinese landscape.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-03.webp",
+    "thumb": "assets/portfolio/work-03-thumb.webp"
+  },
+  {
+    "id": "work-04",
+    "title": "In Harmony of Song, In Kinship of Shore and Sea",
+    "kicker": "Chinese painting",
+    "caption": "A gift presented to Harvard Din&Tonics.",
+    "alt": "A long golden landscape scroll with mountains, trees and water.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-04.webp",
+    "thumb": "assets/portfolio/work-04-thumb.webp"
+  },
+  {
+    "id": "work-05",
+    "title": "阿格里巴 (Agrippa — tentative identification)",
+    "kicker": "Pencil · Plaster-cast study",
+    "caption": "Probably a planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light.",
+    "alt": "Pencil profile study of a faceted plaster head, probably Agrippa.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-05.webp",
+    "thumb": "assets/portfolio/work-05-thumb.webp",
+    "captionZh": "疑为阿格里巴切面石膏像。以侧面的轮廓与明暗转折，练习眉弓、颧骨和颈部的体块关系。阿格里巴是古罗马将领与政治家。",
+    "captionEn": "Probably a planar plaster cast of Agrippa, the Roman general and statesman. This profile study explores how the brow, cheekbone and neck emerge through changes of plane and light."
+  },
+  {
+    "id": "work-06",
+    "title": "维特里乌斯像 (The “Vitellius” Portrait — tentative identification)",
+    "kicker": "Pencil · Plaster-cast study",
+    "caption": "Probably the studio cast traditionally called “Vitellius” or the “Roman Emperor.” This frontal study focuses on facial proportions and softly modeled volume. The traditional name does not establish the original sitter’s identity.",
+    "alt": "Frontal pencil study of a Roman plaster portrait, possibly the cast traditionally called Vitellius.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-06.webp",
+    "thumb": "assets/portfolio/work-06-thumb.webp",
+    "captionZh": "疑为画室中常称“维特里乌斯”或“罗马皇帝”的石膏头像。正面的观察着重于五官比例与柔和的体积塑造。这一传统名称并不代表原作人物身份已获确认。",
+    "captionEn": "Probably the studio cast traditionally called “Vitellius” or the “Roman Emperor.” This frontal study focuses on facial proportions and softly modeled volume. The traditional name does not establish the original sitter’s identity."
+  },
+  {
+    "id": "work-07",
+    "title": "马赛曲战士 (Warrior from La Marseillaise)",
+    "kicker": "Pencil · Plaster-cast study",
+    "caption": "A study after the bearded warrior in François Rude’s La Marseillaise, also known as The Departure of the Volunteers of 1792. The lifted head, flowing beard and strong shadows give the sculpted form its energy.",
+    "alt": "Pencil study after the bearded warrior from François Rude’s La Marseillaise.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-07.webp",
+    "thumb": "assets/portfolio/work-07-thumb.webp",
+    "captionZh": "取自弗朗索瓦·吕德《马赛曲》（又名《1792年志愿军出征》）中的战士形象。扬起的头部、浓密的胡须与强烈的明暗，呈现雕塑的力量与动势。",
+    "captionEn": "A study after the bearded warrior in François Rude’s La Marseillaise, also known as The Departure of the Volunteers of 1792. The lifted head, flowing beard and strong shadows give the sculpted form its energy."
+  },
+  {
+    "id": "work-08",
+    "title": "荷马 (Homer)",
+    "kicker": "Pencil · Plaster-cast study",
+    "caption": "A study of the traditional sculptural image of Homer, the ancient Greek epic poet. Layers of light across the forehead, eye sockets and curled beard explore the quiet presence and volume of an aged face.",
+    "alt": "Pencil study of a plaster bust of Homer, with a receding hairline and curled beard.",
+    "width": 1279,
+    "height": 1706,
+    "src": "assets/portfolio/work-08.webp",
+    "thumb": "assets/portfolio/work-08-thumb.webp",
+    "captionZh": "以古希腊史诗诗人荷马的传统雕塑形象为对象。通过额头、眼窝与卷曲胡须之间的明暗层次，探索苍老面容中的沉静与体积感。",
+    "captionEn": "A study of the traditional sculptural image of Homer, the ancient Greek epic poet. Layers of light across the forehead, eye sockets and curled beard explore the quiet presence and volume of an aged face."
+  },
+  {
+    "id": "work-09",
+    "title": "松梅鹤戏岁时交 (Pines, Plum Blossoms and Cranes at the Turning of the Seasons)",
+    "kicker": "GuYu Art Exhibition · 2025 · RMB 10,800",
+    "year": 2025,
+    "price": 10800,
+    "currency": "CNY",
+    "captionZh": "此作以“岁寒三友”松、梅与鹤为核心意象，构建冬去春来的时序更迭。画面以苍松为骨，红梅点染，鹤群翩跹其间，暗合《周易》“天地交而万物通”之意。松枝积雪喻示寒冬凛冽，梅蕊初绽象征阳气萌动，鹤舞动态打破静态雪景，呼应“岁时交”的阴阳流转。构图借鉴南宋马远“边角之景”，留白处题诗点题，墨色清冷中透出朱砂与石青的鲜活，传递严冬将尽、生机暗涌的文人画哲思。",
+    "captionEn": "Reimagining the “Three Friends of Winter” through pine, plum blossom and cranes, this painting traces the passage from winter into spring. The pine lends the composition its structure; red plum blossoms provide touches of colour, while cranes dance among the branches. Together they echo the I Ching: “Heaven and earth unite, and all things flourish.” Snow-laden boughs evoke winter’s severity, while the first opening blossoms herald the awakening of yang. The cranes’ movement stirs the stillness of the snowy scene, reflecting the interplay of yin and yang as the seasons turn. Inspired by the corner compositions of the Southern Song painter Ma Yuan, the work leaves open space for a poetic inscription to complete its meaning. Through the cool ink tones, cinnabar red and mineral blue bring a quiet vitality, expressing a scholar-painter’s sense that winter is drawing to a close and new life is gathering unseen.",
+    "alt": "Two red-crowned cranes among pine boughs and pink plum blossoms in a vertical Chinese painting.",
+    "exhibitionUrl": "https://mp.weixin.qq.com/s/i8_tfTUMsi9lsdIFFWlr-Q",
+    "caption": "Reimagining the “Three Friends of Winter” through pine, plum blossom and cranes, this painting traces the passage from winter into spring. The pine lends the composition its structure; red plum blossoms provide touches of colour, while cranes dance among the branches. Together they echo the I Ching: “Heaven and earth unite, and all things flourish.” Snow-laden boughs evoke winter’s severity, while the first opening blossoms herald the awakening of yang. The cranes’ movement stirs the stillness of the snowy scene, reflecting the interplay of yin and yang as the seasons turn. Inspired by the corner compositions of the Southern Song painter Ma Yuan, the work leaves open space for a poetic inscription to complete its meaning. Through the cool ink tones, cinnabar red and mineral blue bring a quiet vitality, expressing a scholar-painter’s sense that winter is drawing to a close and new life is gathering unseen.",
+    "src": "assets/portfolio/work-09.webp",
+    "thumb": "assets/portfolio/work-09-thumb.webp",
+    "width": 858,
+    "height": 3452
+  },
+  {
+    "id": "work-10",
+    "title": "栖香 (Perched in Fragrance)",
+    "kicker": "GuYu Art Exhibition · 2026 · RMB 20,200",
+    "year": 2026,
+    "price": 20200,
+    "currency": "CNY",
+    "captionZh": "此幅工笔花鸟画《栖香》，笔致细腻，设色清丽。画面中两只绶带鸟相依栖于花枝之上，神态灵动，寓意“双寿”与绵长。红、黄、粉三色牡丹与桃花交相辉映，雍容华贵。整体构图疏密有致，生机盎然，既有传统工笔的严谨雅致，又透出春和景明、福寿双全的吉祥意蕴。",
+    "captionEn": "Rendered in the meticulous gongbi tradition, Perched in Fragrance brings together finely controlled brushwork and clear, delicate colour. Two paradise flycatchers nestle together on a flowering branch, their lively presence carrying a wish for shared longevity and enduring companionship. Peonies in red, yellow and pink mingle with peach blossom in a display of graceful abundance. The composition balances fullness with breathing space, alive with the energy of spring. Its precision and elegance honour the gongbi tradition, while its imagery offers a blessing of happiness and long life beneath bright spring skies.",
+    "alt": "Two paradise flycatchers on flowering branches above red, yellow and pink peonies in a vertical gongbi painting.",
+    "caption": "Rendered in the meticulous gongbi tradition, Perched in Fragrance brings together finely controlled brushwork and clear, delicate colour. Two paradise flycatchers nestle together on a flowering branch, their lively presence carrying a wish for shared longevity and enduring companionship. Peonies in red, yellow and pink mingle with peach blossom in a display of graceful abundance. The composition balances fullness with breathing space, alive with the energy of spring. Its precision and elegance honour the gongbi tradition, while its imagery offers a blessing of happiness and long life beneath bright spring skies.",
+    "src": "assets/portfolio/work-10.webp",
+    "thumb": "assets/portfolio/work-10-thumb.webp",
+    "width": 1280,
+    "height": 5290
+  }
+];
+window.RYAN_PROFILE={
+  "id": "profile-guyu",
+  "title": "Ryan Dai · GuYu Art Exhibition",
+  "kicker": "With my painting · 栖香 / Perched in Fragrance",
+  "caption": "At the GuYu Art Exhibition, alongside my painting Perched in Fragrance.",
+  "captionZh": "在谷雨艺术展，与作品《栖香》合影。",
+  "alt": "Ryan Dai standing beside his framed painting Perched in Fragrance at the GuYu Art Exhibition.",
+  "src": "assets/portfolio/profile-guyu.jpg",
+  "width": 1440,
+  "height": 1920
+};
